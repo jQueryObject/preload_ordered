@@ -1,0 +1,2 @@
+# preload_ordered
+基于jquery插件的图片有预跟无序加载
